@@ -5,6 +5,8 @@ Esercizio di test - Tracking
 
 Chiamare index.php passando in GET trackingId
 
+Testato con PHP 8
+
 
 ### Test Tracking numbers:
 
